@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related prod APIs "
+  contactDetails:
+    name: "Thomas Raju Bansod - Product Owner"
+    email: "thomasbansod@eazybank.com"
+  onCallSupport:
+    - (453) 987-1234
+    - (236) 557-1345
